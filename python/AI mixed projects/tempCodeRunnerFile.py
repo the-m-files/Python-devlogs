@@ -1,1 +1,0 @@
-turtle.tracer(0, 0) 
