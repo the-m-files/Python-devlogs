@@ -1,2 +1,10 @@
-flask
-requests
+Vscode(most versions are fine)
+Python(any version above 3 should be good)
+Code runner(for vscode to run python)
+
+Extensions I reccomend that you have but not necessary:
+______________________________________
+Pylance(for vscode to run python)
+Python(for vscode to run python)
+Python debugger(for vscode to debug python)
+Python enviroinment(for vscode to run python)
