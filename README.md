@@ -70,6 +70,10 @@ If you would like to contribute additional notes, corrections, or beginner-frien
 
 This project is a work in progress.
 
+#Update 6/26/2026------------------
+added devlogs till day 15.
+Next devlog expected to come in a few days
+
 I started learning Python on **June 9, 2026**, and this repository serves as a record of that journey.
 
 I do not know how long this project will continue or how advanced it will eventually become. If you are reading this years from now and see advanced topics, then I have come a long way.
