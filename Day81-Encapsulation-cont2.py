@@ -21,3 +21,8 @@ class Currency():
 #so this will work now:
 bank1 = Currency(10000)
 print(bank1.dollars)
+
+s = "Race car"
+print(s.replace(" ", "").lower().strip())
+print(reversed(s.replace(" ", "")))
+print(tuple(s.replace(" ", "").lower().strip()) == tuple(reversed(s.replace(" ", "").lower().strip())))
