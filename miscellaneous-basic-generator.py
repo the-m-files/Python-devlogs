@@ -4,6 +4,7 @@
 
 #here is an example of a generator object
 
+#dont worry about this function, you will understand it later
 def square(input):
   for i in range(0, input+1):
     yield i**2 #this is what makes the generator object instead of return
